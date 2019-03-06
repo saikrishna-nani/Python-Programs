@@ -1,0 +1,45 @@
+
+*******************************Handling Excel sheets using Python**************************************** 
+
+Reading excel sheet:
+https://www.geeksforgeeks.org/reading-excel-file-using-python/
+
+Writing to excel sheet:
+https://www.geeksforgeeks.org/writing-excel-sheet-using-python/
+
+Reading excel sheet  using openpyxl module:
+https://www.geeksforgeeks.org/python-reading-excel-file-using-openpyxl-module/)
+
+Writing to excel sheet  using openpyxl module:
+https://www.geeksforgeeks.org/python-writing-excel-file-using-openpyxl-module/
+
+Adjusting rows and columns of an excel file using openpyxl module: https://www.geeksforgeeks.org/python-adjusting-rows-and-columns-of-an-excel-file-using-openpyxl-module/
+
+Plotting charts in excel sheet using openpyxl module: 
+https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-1/
+https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-2/
+https://www.geeksforgeeks.org/python-plotting-charts-in-excel-sheet-using-openpyxl-module-set-3/
+
+Arithmetic operations in excel file using openpyxl:
+https://www.geeksforgeeks.org/python-arithmetic-operations-in-excel-file-using-openpyxl/
+
+Trigonometric operations in excel file using openpyxl:
+https://www.geeksforgeeks.org/python-trigonometric-operations-in-excel-file-using-openpyxl/
+
+Create and write on excel file using xlsxwriter module:
+https://www.geeksforgeeks.org/python-create-and-write-on-excel-file-using-xlsxwriter-module/
+
+Plotting Pie charts in excel sheet using XlsxWriter module:
+https://www.geeksforgeeks.org/python-plotting-pie-charts-in-excel-sheet-using-xlsxwriter-module/
+ 
+Plotting Area charts in excel sheet using XlsxWriter module:
+https://www.geeksforgeeks.org/python-plotting-area-charts-in-excel-sheet-using-xlsxwriter-module/
+
+Plotting Radar charts in excel sheet using XlsxWriter module:
+https://www.geeksforgeeks.org/python-plotting-radar-charts-in-excel-sheet-using-xlsxwriter-module/
+
+Plotting bar charts in excel sheet using XlsxWriter module:
+https://www.geeksforgeeks.org/python-plotting-bar-charts-in-excel-sheet-using-xlsxwriter-module/
+
+Plotting Doughnut charts in excel sheet using XlsxWriter module:
+https://www.geeksforgeeks.org/python-plotting-doughnut-charts-in-excel-sheet-using-xlsxwriter-module/
